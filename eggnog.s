@@ -24,7 +24,7 @@ main:
 	ret
 
 message:
-	.asciz "I really love eggnog\n"
+	.asciz "I will drink too much\n"
 
 message2:
    .asciz "Eggnog is the best ever\n"
